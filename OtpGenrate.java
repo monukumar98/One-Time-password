@@ -1,5 +1,3 @@
-package Winter;
-
 import java.util.*;
 
 public class OtpGenrate {
